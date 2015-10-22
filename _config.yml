@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://dmych.github.io
+title: dmych
+tagline: blog on github
+description: My awesome new site
+paginate: 10
