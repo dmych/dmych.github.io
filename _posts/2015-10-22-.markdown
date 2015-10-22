@@ -1,0 +1,6 @@
+---
+published: true
+title: первый
+layout: post
+---
+еще один типа-блого-хостинг
