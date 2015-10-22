@@ -1,6 +1,6 @@
 ---
 published: true
-title: первый
+title: no-nonascii-letters-in-title
 layout: post
 ---
 еще один типа-блого-хостинг
