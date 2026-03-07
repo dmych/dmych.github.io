@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Evernote.md","permalink":"/Evernote/","updated":"2026-03-07T19:44:44.348+03:00"}
+{"dg-publish":true,"dg-path":"Evernote.md","permalink":"/Evernote/","updated":"2026-03-07T19:55:45.364+03:00"}
 ---
 
 # Evernote
