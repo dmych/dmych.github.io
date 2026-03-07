@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>Nimbus Note</title>
+<title>Загрузка шрифтов в CSS в Obsidian</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -69,16 +69,44 @@ CTRL + K
 <div class="header-meta">
 <div class="header-tags">
 </div>
-<div class="timestamps"><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2026-03-07T21:13:12.593+03:00"></span></div></div></div>
+<div class="timestamps"><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2026-03-07T21:27:51.545+03:00"></span></div></div></div>
 </header>
-<h1 id="nimbus-note" tabindex="-1">Nimbus Note</h1>
-<p>Главный претендент на замену <a class="internal-link" target="" data-note-icon="" href="/Evernote/">Evernote</a>. Во многих аспектах достойное приложение и сервис. Много разного интересного и полезного функционала.</p>
-<p>Единицей хранения, как и в Evernote, является заметка. Заметки объединены в папки, которые могут быть вложены одна в другую, как на файловой системе. Набор папок объединен в проект. Можно иметь несколько проектов. Заметка может содержать структурированный форматированный текст (структура задается тремя уровнями заголовков), в нее можно добавлять изображения и разные документы в разных форматах, к каждой заметке можно сделать список задач, поставить напоминание (в том числе повторяющееся).</p>
-<p>Редактор на самом деле очень навороченный — в двух абзацах и не расскажешь. Кроме заголовков, жирного/курсива/перечеркнутого/кода/списков/чекбоксов/итд, есть возможность вставить дату и время, сделать текст в две или три колонки, наконец, сделать таблицу. Таблицы — вообще космос (по сравнению с Evernote): колонки разных типов (включая даты, валюта, прогресс, выбор из списка, оценку в звездочках). Под каждой колонкой может быть выведена разнообразная статистика (сумма, среднее, процент выполнения...).</p>
-<p>На телефоне приложение тоже очень достойное. Поддерживаются почти все функции, доступные в десктопной и веб-версиях.</p>
-<p>Из минусов надо отметить неторопливую синхронизацию, которая у меня к тому же временами глючит, иногда теряет картинки, вставленные в текст, ну и заметки он у меня временами терял. К тому же, у него до сих пор проблемы с печатью и экспортом заметок. Он платный, хотя стоит раза в два дешевле эверноута. На бесплатном тарифе практически невозможно работать — слишком мало возможностей.</p>
-<p>Несмотря на недостатки, я перенес основную часть своих заметок в Nimbus Note из Evernote и был, в общем-то, доволен. Пока можно было за него платить (потому что бесплатная версия сильно урезана).</p>
-<p><mark>После 2022 стало невозможно оплачивать приложение.</mark></p>
+<h1 id="zagruzka-shriftov-v-css-v-obsidian" tabindex="-1">Загрузка шрифтов в CSS в Obsidian</h1>
+<p><em>Научился этому на примере темы obsidian_ia.</em></p>
+<h1 id="" tabindex="-1"></h1>
+<p>Сконвертировать ttf-файлы для всех начертаний (обычно четыре: regular, italic, bold, bold italic) в текстовый файл в base64:</p>
+<pre><code class="language-bash">#!/bin/bash
+# usage: ttf2css.sh FONTS
+for f in $*
+do
+   t=${f/.ttf/.txt}
+   echo &quot;${f} &gt;&gt;&gt; ${t}&quot;
+   base64 -i ${f} -o ${t}
+done
+</code></pre>
+<p>Создать CSS-файл, в соответствующие места (см <code>&lt;ТЕКСТ ЗАКОДИРОВАННОГО ШРИФТА&gt;</code>) вставить строки из сконвертированных текстовых файлов, задать корректные названия шрифтов.</p>
+<pre><code class="language-css">@font-face { 
+  font-family: &quot;iA Writer Mono S&quot;;
+  src: url(data:application/octet-stream;base64,&lt;ТЕКСТ ЗАКОДИРОВАННОГО ШРИФТА&gt;) format('truetype');
+}
+@font-face { 
+  font-family: &quot;iA Writer Mono S&quot;;
+  font-style: italic;
+  src: url(data:application/octet-stream;base64,&lt;ТЕКСТ ЗАКОДИРОВАННОГО ШРИФТА&gt;)  format('truetype');
+}
+@font-face { 
+  font-family: &quot;iA Writer Mono S&quot;;
+  font-weight: bold;
+  src: url(data:application/octet-stream;base64,&lt;ТЕКСТ ЗАКОДИРОВАННОГО ШРИФТА&gt;) format('truetype');
+}
+@font-face { 
+  font-family: &quot;iA Writer Mono S&quot;;
+  font-weight: bold;
+  font-style: italic;
+  src: url(data:application/octet-stream;base64,&lt;ТЕКСТ ЗАКОДИРОВАННОГО ШРИФТА&gt;) format('truetype');
+}
+</code></pre>
+<p>Положить CSS-файл в папку <code>&lt;VAULT&gt;/.obsidian/snippets</code>, включить этот сниппет в настройках Obsidian и ввести имя шрифта в Settings/Appearance/Font.</p>
 </main>
 <aside>
 <div class="sidebar">
@@ -92,7 +120,7 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#nimbus-note">Nimbus Note</a>
+<li><a href="#zagruzka-shriftov-v-css-v-obsidian">Загрузка шрифтов в CSS в Obsidian</a>
 </li>
 </ol>
 </nav>
@@ -100,7 +128,7 @@ On this page
 </div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/Инструменты/" data-note-icon="" class="backlink">Инструменты</a>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/Obsidian/" data-note-icon="" class="backlink">Obsidian</a>
 </div></div>
 </div>
 </div>
