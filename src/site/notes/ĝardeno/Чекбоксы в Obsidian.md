@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Чекбоксы в Obsidian.md","permalink":"/Чекбоксы в Obsidian/","updated":"2026-03-07T23:17:55.867+03:00"}
+{"dg-publish":true,"dg-path":"Чекбоксы в Obsidian.md","permalink":"/Чекбоксы в Obsidian/","updated":"2026-03-07T23:20:33.851+03:00"}
 ---
 
 ## Чекбоксы в Obsidian
@@ -8,4 +8,4 @@
 
 Однако, как их использовать? Сначала я пробовал написать плагин, но потом обнаружил, что то все можно сделать парой скриптов в шаблонах плагина [[Templater\|Templater]]. Например, если назначить этот [шаблон](https://gist.github.com/dmych/d700b1d0fe457075a916cafec190bca8)  на горячую клавишу, можно быстро менять значение чекбокса на любой другой из возможных:
 
-![Pasted image 20260227133700.png|200](/img/user/resursoj/Pasted%20image%2020260227133700.png) ![Pasted image 20260227133715.png|200](/img/user/resursoj/Pasted%20image%2020260227133715.png)
+![Pasted image 20260227133700.png|600](/img/user/resursoj/Pasted%20image%2020260227133700.png) ![Pasted image 20260227133715.png|600](/img/user/resursoj/Pasted%20image%2020260227133715.png)
