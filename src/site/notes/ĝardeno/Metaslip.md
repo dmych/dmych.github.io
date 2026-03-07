@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Metaslip.md","permalink":"/Metaslip/","updated":"2026-03-07T20:54:54.938+03:00"}
+{"dg-publish":true,"dg-path":"Metaslip.md","permalink":"/Metaslip/","updated":"2026-03-07T21:13:12.543+03:00"}
 ---
 
 # Metaslip
