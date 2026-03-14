@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sectograph.md","permalink":"/Sectograph/","updated":"2026-03-07T21:35:55.746+03:00"}
+{"dg-publish":true,"dg-path":"Sectograph.md","permalink":"/Sectograph/","updated":"2026-03-10T02:34:41.877+03:00"}
 ---
 
 # Sectograph

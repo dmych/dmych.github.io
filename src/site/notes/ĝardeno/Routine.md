@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Routine.md","permalink":"/Routine/","updated":"2026-03-07T21:35:27.926+03:00"}
+{"dg-publish":true,"dg-path":"Routine.md","permalink":"/Routine/","updated":"2026-03-10T02:34:41.849+03:00"}
 ---
 
 # Routine

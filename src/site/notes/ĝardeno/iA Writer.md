@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"iA Writer.md","permalink":"/iA Writer/","updated":"2026-03-07T19:55:45.424+03:00"}
+{"dg-publish":true,"dg-path":"iA Writer.md","permalink":"/iA Writer/","updated":"2026-03-10T02:34:41.741+03:00"}
 ---
 
 # iA Writer

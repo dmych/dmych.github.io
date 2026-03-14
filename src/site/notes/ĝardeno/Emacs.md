@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Emacs.md","permalink":"/Emacs/","updated":"2026-03-07T19:55:45.344+03:00"}
+{"dg-publish":true,"dg-path":"Emacs.md","permalink":"/Emacs/","updated":"2026-03-10T02:34:41.709+03:00"}
 ---
 
 # Emacs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Загрузка шрифтов в CSS в Obsidian.md","permalink":"/Загрузка шрифтов в CSS в Obsidian/","updated":"2026-03-07T21:27:51.545+03:00"}
+{"dg-publish":true,"dg-path":"Загрузка шрифтов в CSS в Obsidian.md","permalink":"/Загрузка шрифтов в CSS в Obsidian/","updated":"2026-03-10T02:34:41.829+03:00"}
 ---
 
 # Загрузка шрифтов в CSS в Obsidian

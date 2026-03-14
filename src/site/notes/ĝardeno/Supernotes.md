@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Supernotes.md","permalink":"/Supernotes/","updated":"2026-03-07T21:39:39.649+03:00"}
+{"dg-publish":true,"dg-path":"Supernotes.md","permalink":"/Supernotes/","updated":"2026-03-10T02:34:41.869+03:00"}
 ---
 
 # Supernotes

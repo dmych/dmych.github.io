@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Obsidian.md","permalink":"/Obsidian/","updated":"2026-03-07T23:17:48.383+03:00"}
+{"dg-publish":true,"dg-path":"Obsidian.md","permalink":"/Obsidian/","updated":"2026-03-14T23:54:36.948+03:00"}
 ---
 
 # Obsidian
@@ -12,3 +12,6 @@
 
 - [[ĝardeno/Загрузка шрифтов в CSS в Obsidian\|Загрузка шрифтов в CSS в Obsidian]]
 - [[ĝardeno/Чекбоксы в Obsidian\|Чекбоксы в Obsidian]]
+
+Справка по Obsidian на русском языке:
+- [Obsidian Русская Справка](https://publish.obsidian.md/help-ru/%D0%9D%D0%B0%D1%87%D0%BD%D0%B8%D1%82%D0%B5+%D0%B7%D0%B4%D0%B5%D1%81%D1%8C)

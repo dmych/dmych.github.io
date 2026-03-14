@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Singularity.md","permalink":"/Singularity/","updated":"2026-03-07T21:40:34.591+03:00"}
+{"dg-publish":true,"dg-path":"Singularity.md","permalink":"/Singularity/","updated":"2026-03-10T02:34:41.885+03:00"}
 ---
 
 # Singularity

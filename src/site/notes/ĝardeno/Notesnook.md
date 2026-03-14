@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notesnook.md","permalink":"/Notesnook/","updated":"2026-03-07T21:13:12.753+03:00"}
+{"dg-publish":true,"dg-path":"Notesnook.md","permalink":"/Notesnook/","updated":"2026-03-10T02:34:41.809+03:00"}
 ---
 
 # Notesnook

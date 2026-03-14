@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Twos.md","permalink":"/Twos/","updated":"2026-03-07T21:49:57.900+03:00"}
+{"dg-publish":true,"dg-path":"Twos.md","permalink":"/Twos/","updated":"2026-03-10T02:34:41.905+03:00"}
 ---
 
 # Twos
