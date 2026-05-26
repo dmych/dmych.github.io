@@ -36,18 +36,23 @@
     --font-monospace: "Courier Prime", ui-monospace, monospace !important;
 }
 
+/* 3. Самое важное — высокая специфичность для callouts */
 .callout,
 .callout-content,
 .callout-title,
 .callout-inner,
-.callout > * {
+.callout > div,
+.callout p,
+.callout li,
+.callout blockquote {
     font-family: "Courier Prime", system-ui, sans-serif !important;
 }
 
-/* 4. Максимальная страховка */
-body *,
+/* 4. Ещё более агрессивный вариант */
+body .callout,
 .markdown-preview-view .callout,
-.article .callout,
-.prose .callout {
+.article-content .callout,
+.prose .callout,
+.cm-s-obsidian .callout {
     font-family: "Courier Prime", system-ui, sans-serif !important;
 }
