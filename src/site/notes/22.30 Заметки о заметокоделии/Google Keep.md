@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Google Keep.md","permalink":"/Google Keep/","updated":"2026-05-27T01:24:19.360+03:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Google Keep.md","permalink":"/Google Keep/","updated":"2026-05-27T01:49:20.200+03:00","dg-note-properties":{}}
 ---
 
 # Google Keep
@@ -10,4 +10,4 @@
 
 После того, как вернули интеграцию напоминаний Keep с [[22.30 Заметки о заметокоделии/Google Calendar\|Календарем]] (теперь это делается так: напоминание становится задачей, которая отображается в календаре [[22.30 Заметки о заметокоделии/Google Tasks\|Задачи]]), стало возможным использовать всю «связку» гугловых сервисов в качестве планировщика и заметочника.
 
-Однако слабые возможности по сортировки, отсутствие связей между заметками не позволяют сделать полноценный заметочник в духе [[ĝardeno/Zettelkasten\|ĝardeno/Zettelkasten]] или [[ĝardeno/Bullet Journal\|Bullet Journal]].
+Однако слабые возможности по сортировки, отсутствие связей между заметками не позволяют сделать полноценный заметочник в духе [[arkivo/Zettelkasten\|Zettelkasten]] или [[ĝardeno/Bullet Journal\|Bullet Journal]].

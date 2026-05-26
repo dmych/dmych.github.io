@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Google Tasks.md","permalink":"/Google Tasks/","updated":"2026-05-27T01:24:20.023+03:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Google Tasks.md","permalink":"/Google Tasks/","updated":"2026-05-27T01:48:47.073+03:00","dg-note-properties":{}}
 ---
 
 # Google Tasks

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Hypernotes.md","permalink":"/Hypernotes/","updated":"2026-05-27T01:25:08.436+03:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Hypernotes.md","permalink":"/Hypernotes/","updated":"2026-05-27T01:48:33.483+03:00","dg-note-properties":{}}
 ---
 
 # Hypernotes
 
-Похоже на аутлайнер в стиле [[22.30 Заметки о заметокоделии/Dynalist\|22.30 Заметки о заметокоделии/Dynalist]]. Или, скоре, на [[22.30 Заметки о заметокоделии/Acreom\|22.30 Заметки о заметокоделии/Acreom]].
+Похоже на аутлайнер в стиле [[22.30 Заметки о заметокоделии/Dynalist\|Dynalist]]. Или, скоре, на [[22.30 Заметки о заметокоделии/Acreom\|Acreom]].
 
 Заметки распределены по блокнотам. На бесплатном аккаунте можно только два блокнота.
 
