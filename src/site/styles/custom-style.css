@@ -36,25 +36,18 @@
     --font-monospace: "Courier Prime", ui-monospace, monospace !important;
 }
 
-/* Дополнительно — на всякий случай */
-body,
-.markdown-preview-view,
-.article-content,
-.prose,
-.content {
-    font-family: "Courier Prime", system-ui, sans-serif;
-}
-
 .callout,
 .callout-content,
 .callout-title,
-.callout > div,
-.callout p,
-.callout li {
+.callout-inner,
+.callout > * {
     font-family: "Courier Prime", system-ui, sans-serif !important;
 }
 
-/* Дополнительная страховка */
-body .callout {
+/* 4. Максимальная страховка */
+body *,
+.markdown-preview-view .callout,
+.article .callout,
+.prose .callout {
     font-family: "Courier Prime", system-ui, sans-serif !important;
 }
