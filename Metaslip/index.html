@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>Где и как вести заметки</title>
+<title>Metaslip</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -69,18 +69,59 @@ CTRL + K
 <div class="header-meta">
 <div class="header-tags">
 </div>
-<div class="timestamps"><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2026-05-27T00:10:44.613+03:00"></span></div></div></div>
+<div class="timestamps"><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2026-05-27T01:25:39.578+03:00"></span></div></div></div>
 </header>
-<h1 id="gde-i-kak-vesti-zametki" tabindex="-1">Где и как вести заметки</h1>
-<blockquote>
-<p>«Спрашивается: что суше всего? Отвечаем: лек-ци-я!»</p>
-</blockquote>
-<p>Что такое заметки? Это просто записи о разном. Как лучше всего вести записи? Записывать! Где? В блокноте! Ну, ок, в качестве блокнота у нас будет выступать приложение на компьютере, планшете или смартфоне.</p>
-<p>По большому счёту не важно, в каком именно приложении вы ведёте заметки — если вас оно устраивает, то продолжайте им пользоваться. Я в разное время для разных задач пользовался <a class="internal-link" target="" data-note-icon="" href="/Инструменты/">разными приложениями</a>, и в конце концов остановился на Obsidian.</p>
-<p>Прежде всего, потому что <a class="internal-link is-unresolved" href="/404" target="">Obsidian</a> хранит заметки в обычных текстовых файлах на диске, и это значит, что они всегда будут доступны независимо от наличия интернета и работоспособности самого приложения — текстовые файлы вы сможете прочитать где угодно, с помощью любого самого простого текстового редактора.</p>
-<p>Но это не единственная причина. Дело в том, что Obsidian — это мощный текстовый «комбайн», который к тому же можно хорошо настроить под свои нужды. А формат разметки <a class="internal-link is-unresolved" href="/404" target="">Markdown</a>, в котором ведутся заметки, позволяет форматировать документы не хуже, чем в ворде или гугл документах, при этом файлы не распухают до неприличных размеров, и по-прежнему легко читаются в любом другом текстовом редакторе.</p>
-<p>Главное же отличие заметок в Obsidian от просто текстовых файлов — они <em>связаны</em> в единую базу знаний. Obsidian — это одновременно редактор Markdown и приложение для управления базой знаний, и настоящая сила Obsidian заключается в управлении этой связанной базой знаний.</p>
-<p>Документация Obsidian доступна на русском языке: <a href="https://obsidian.md/ru/help/obsidian" target="_blank" class="external-link">https://obsidian.md/ru/help/obsidian</a></p>
+<h1 id="metaslip" tabindex="-1">Metaslip</h1>
+<p>Хранит карточки с заметками и позволяет связывать их в виде дерева (как в <a class="internal-link is-unresolved" href="/404" target="">ĝardeno/Zettelkasten</a>).</p>
+<p>С одной стороны, это как раз то, что мне нужно, с другой стороны — слабая функциональность и слабая поддержка Markdown — делают приложение малоупотребительным для серьёзных вещей.</p>
+<h2 id="derevo-kartochek" tabindex="-1">Дерево карточек</h2>
+<p>Каждая карточка может иметь родительскую и дочерних (кроме того, можно ссылаться на другие карточки из текста заметки).</p>
+<p>Однако, нет (или я не нашёл) способа увидеть дерево карточек — на домашнем экране карточки в порядке их создания (редактирования?)</p>
+<h2 id="otlichiya-ot-zettelkasten" tabindex="-1">Отличия от Zettelkasten</h2>
+<p>Прежде всего, отсутствует общая последовательность.<br>
+В <a class="internal-link is-unresolved" href="/404" target="">ĝardeno/Zettelkasten</a> карточки одного уровня упорядочены по времени создания, или по тому, как их создатель их разложил.</p>
+<p>В Metaslip карточки все свалены в большую кучу. Их, конечно, можно отсортировать во вкладке Surfing по разным критериям, но это не тот жёсткий порядок, как в Zettelkasten.</p>
+<h2 id="markdown-v-metaslip" tabindex="-1">Markdown в Metaslip</h2>
+<p>Я бы его назвал «ограниченным Markdown» — не вижу, чтобы правильно отображались цитаты и заголовки. По сути, есть только жирный, курсив, неупорядоченный список, математические выражения (LaTeX) и ссылки в двойных квадратных скобках. Не ни картинок, ни блоков кода.</p>
+<ul>
+<li>LaTeX mathematical formulas: <code>$$ latex formula $$</code></li>
+<li>Bold: <code>**bold**</code></li>
+<li>Italic: <code>*italic*</code></li>
+<li>Unordered list: <code>* unordered list</code></li>
+<li>Reference to another card: use <code>[[card]]</code> to reference another card.</li>
+</ul>
+<h2 id="vozmozhnosti-zagruzki-vygruzki" tabindex="-1">Возможности загрузки/выгрузки</h2>
+<p>Можно выгрузить все карточки в более-менее приличном Markdown.</p>
+<p>Передать информацию через меню share в Андроиде нельзя — таким образом можно только восстановиться из бэкапа.</p>
+<h2 id="sinhronizacziya-metaslip" tabindex="-1">Синхронизация Metaslip</h2>
+<p>Реализовано сохранение бэкапов в облачное хранилище через WebDAV.</p>
+<p>Можно использовать WebDAV от Яндекс.Диска.</p>
+<p>Чтобы синхронизировать изменения на устройство, надо вручную восстановить из бэкапа.</p>
+<p>Бэкапы хранятся в бинарном формате.</p>
+<p>Это всё не очень удобно, довольно долго, и чревато ошибками, но всё же это рабочая схема.</p>
+<p><strong>Плюсы</strong></p>
+<ul>
+<li>кроссплатформенность</li>
+<li>минимализм и лаконичность интерфейса</li>
+<li>иерархия заметок и ссылки</li>
+<li>простота использования</li>
+</ul>
+<p>Минусы</p>
+<ul>
+<li>слишком бедное подмножество Markdown, отсутствуют вложения</li>
+<li>сложность синхронизации (только вручную, и вероятность ошибки велика)</li>
+<li>глюки клавиатуры (как ни странно, на Маке): странно работают клавиши перемещения в начало/конец строки, нет перемещения по словам, не работает Cmd+Delete для удаления слова...</li>
+<li>собственный формат хранения данных, Markdown только при экспорте</li>
+<li>неясно, насколько приложение поддерживается до сих пор — последнее обновление для Андроида было в июне 2024, для Мака — ещё раньше</li>
+<li>плоская система заголовков — по сути, все заметки находятся в одном namespace (как файлы в папке), поэтому не может быть двух заметок в разных местах иерархии с одинаковыми названиями</li>
+</ul>
+<h2 id="ispolzovanie-metaslip" tabindex="-1">Использование Metaslip</h2>
+<ul>
+<li>Однако, простота и лаконичность приложения сильно привлекают, несмотря на ограничения и недостатки.</li>
+<li>Приложение спокойно работает на Маке, Андроиде, Айфоне и планшете.</li>
+<li>На компе и на планшете в горизонтальной ориентации приложение отображает заметки в две колонки: слева сама заметка, а справа — все заметки, связанные с ней. Это, конечно, не совсем то отображение, которое мне было бы полезно, но в общем неплохо.</li>
+<li>Конечно, хотелось бы иметь возможность видеть и редактировать параллельно две <em>разные</em> заметки, возможно, даже из разных частей иерархии.</li>
+</ul>
 </main>
 <aside>
 <div class="sidebar">
@@ -94,7 +135,21 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#gde-i-kak-vesti-zametki">Где и как вести заметки</a>
+<li><a href="#metaslip">Metaslip</a>
+<ol>
+<li><a href="#derevo-kartochek">Дерево карточек</a>
+</li>
+<li><a href="#otlichiya-ot-zettelkasten">Отличия от Zettelkasten</a>
+</li>
+<li><a href="#markdown-v-metaslip">Markdown в Metaslip</a>
+</li>
+<li><a href="#vozmozhnosti-zagruzki-vygruzki">Возможности загрузки/выгрузки</a>
+</li>
+<li><a href="#sinhronizacziya-metaslip">Синхронизация Metaslip</a>
+</li>
+<li><a href="#ispolzovanie-metaslip">Использование Metaslip</a>
+</li>
+</ol>
 </li>
 </ol>
 </nav>
@@ -102,7 +157,7 @@ On this page
 </div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/Краткий курс по Obsidian/" data-note-icon="" class="backlink">Краткий курс по Obsidian</a>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/Инструменты/" data-note-icon="" class="backlink">Инструменты</a>
 </div></div>
 </div>
 </div>
