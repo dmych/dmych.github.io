@@ -3,7 +3,7 @@
     <title>Заметки о заметкоделии</title>
     <link href="https://dmych.github.io/feed.xml" rel="self" >
     <link href="https://dmych.github.io" >
-    <updated>2026-05-26T22:43:24Z</updated>
+    <updated>2026-05-26T22:50:44Z</updated>
     <id>https://dmych.github.io</id>
         <entry>
             <title>
@@ -114,11 +114,11 @@
                 iA Writer
                 
             </title>
-            <updated>2026-05-26T22:25:18.193Z</updated>
+            <updated>2026-05-26T22:48:14.661Z</updated>
             <id>https://dmych.github.io/iA Writer/</id>
             <content type="html">
                 &lt;h1 id=&quot;i-a-writer&quot; tabindex=&quot;-1&quot;&gt;iA Writer&lt;/h1&gt;
-&lt;p&gt;Икона стиля! :) До появления &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;ĝardeno/Obsidian&lt;/a&gt; это был лучший редактор текстов в формате Markdown. Стильный, удобный, функциональный. У него есть несколько хороших дополнительных возможностей для форматирования документа (блоки содержимого, таблицы, формулы LaTeX). Полностью перевод справки можно прочитать &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Икона стиля! :) До появления &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Obsidian/&quot;&gt;Obsidian&lt;/a&gt; это был лучший редактор текстов в формате Markdown. Стильный, удобный, функциональный. У него есть несколько хороших дополнительных возможностей для форматирования документа (блоки содержимого, таблицы, формулы LaTeX). Полностью перевод справки можно прочитать &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Но после того, как в версии для Андроида убрали доступ к файлам на телефоне (кроме собственной песочницы), работать с ним на телефоне стало неудобно. Да, по-прежнему можно редактировать файлы в Дропбоксе и в Гугл Диске, но только при наличии нормального интернета. В поезде, например, когда подолгу нет вообще никакой связи, толком не поработаешь.&lt;/p&gt;
 
             </content>
@@ -129,11 +129,11 @@
                 Zoho Notebook
                 
             </title>
-            <updated>2026-05-26T22:27:40.044Z</updated>
+            <updated>2026-05-26T22:45:56.485Z</updated>
             <id>https://dmych.github.io/Zoho Notebook/</id>
             <content type="html">
                 &lt;h1 id=&quot;zoho-notebook&quot; tabindex=&quot;-1&quot;&gt;Zoho Notebook&lt;/h1&gt;
-&lt;p&gt;Прекрасная бесплатная альтернатива &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Evernote/&quot;&gt;22.30 Заметки о заметокоделии/Evernote&lt;/a&gt; и &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Nimbus%20Note/&quot;&gt;22.30 Заметки о заметокоделии/Nimbus Note&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Прекрасная бесплатная альтернатива &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Evernote/&quot;&gt;Evernote&lt;/a&gt; и &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Nimbus%20Note/&quot;&gt;Nimbus Note&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Стильный вид блокнотов с кастомизируемыми обложками, заметки, которые можно дополнительно группировать в «пачки» внутри блокнотов. Поиск работает, есть напоминания. Заметки в rich text, можно вставлять картинки и добавлять документы (PDF). Количество заметок не ограничено, однако картинки с документами хранятся на диске Zoho, и их объем лимитирован на бесплатном аккаунте (2 Gb).&lt;/p&gt;
 
             </content>
@@ -320,12 +320,12 @@
                 Singularity
                 
             </title>
-            <updated>2026-05-26T22:26:51.957Z</updated>
+            <updated>2026-05-26T22:45:33.186Z</updated>
             <id>https://dmych.github.io/Singularity/</id>
             <content type="html">
                 &lt;h1 id=&quot;singularity&quot; tabindex=&quot;-1&quot;&gt;Singularity&lt;/h1&gt;
 &lt;p&gt;Прежде всего, отличный планировщик. Платный, но стоит сильно дешевле аналогов. Российское производство, поэтому нет проблем с оплатой.&lt;/p&gt;
-&lt;p&gt;Многоуровневые проекты и задачи (подпроекты и подзадачи любой вложенности). Немного похоже на &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Superlist/&quot;&gt;22.30 Заметки о заметокоделии/Superlist&lt;/a&gt;, но сложнее и «развесистее».&lt;/p&gt;
+&lt;p&gt;Многоуровневые проекты и задачи (подпроекты и подзадачи любой вложенности). Немного похоже на &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Superlist/&quot;&gt;Superlist&lt;/a&gt;, но сложнее и «развесистее».&lt;/p&gt;
 &lt;p&gt;Продуманная и очень хорошая интеграция с гугловым календарём.&lt;/p&gt;
 &lt;p&gt;Есть заметки (как и задачи, многоуровневые). Но связи между заметками проставлять сложно.&lt;/p&gt;
 &lt;p&gt;Нет нормального экспорта данных из системы.&lt;/p&gt;
@@ -434,11 +434,11 @@
                 Nimbus Note
                 
             </title>
-            <updated>2026-05-26T22:25:57.328Z</updated>
+            <updated>2026-05-26T22:47:01.442Z</updated>
             <id>https://dmych.github.io/Nimbus Note/</id>
             <content type="html">
                 &lt;h1 id=&quot;nimbus-note&quot; tabindex=&quot;-1&quot;&gt;Nimbus Note&lt;/h1&gt;
-&lt;p&gt;Главный претендент на замену &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Evernote/&quot;&gt;22.30 Заметки о заметокоделии/Evernote&lt;/a&gt;. Во многих аспектах достойное приложение и сервис. Много разного интересного и полезного функционала.&lt;/p&gt;
+&lt;p&gt;Главный претендент на замену &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Evernote/&quot;&gt;Evernote&lt;/a&gt;. Во многих аспектах достойное приложение и сервис. Много разного интересного и полезного функционала.&lt;/p&gt;
 &lt;p&gt;Единицей хранения, как и в Evernote, является заметка. Заметки объединены в папки, которые могут быть вложены одна в другую, как на файловой системе. Набор папок объединен в проект. Можно иметь несколько проектов. Заметка может содержать структурированный форматированный текст (структура задается тремя уровнями заголовков), в нее можно добавлять изображения и разные документы в разных форматах, к каждой заметке можно сделать список задач, поставить напоминание (в том числе повторяющееся).&lt;/p&gt;
 &lt;p&gt;Редактор на самом деле очень навороченный — в двух абзацах и не расскажешь. Кроме заголовков, жирного/курсива/перечеркнутого/кода/списков/чекбоксов/итд, есть возможность вставить дату и время, сделать текст в две или три колонки, наконец, сделать таблицу. Таблицы — вообще космос (по сравнению с Evernote): колонки разных типов (включая даты, валюта, прогресс, выбор из списка, оценку в звездочках). Под каждой колонкой может быть выведена разнообразная статистика (сумма, среднее, процент выполнения...).&lt;/p&gt;
 &lt;p&gt;На телефоне приложение тоже очень достойное. Поддерживаются почти все функции, доступные в десктопной и веб-версиях.&lt;/p&gt;
@@ -454,18 +454,18 @@
                 Metaslip
                 
             </title>
-            <updated>2026-05-26T22:25:39.578Z</updated>
+            <updated>2026-05-26T22:47:31.367Z</updated>
             <id>https://dmych.github.io/Metaslip/</id>
             <content type="html">
                 &lt;h1 id=&quot;metaslip&quot; tabindex=&quot;-1&quot;&gt;Metaslip&lt;/h1&gt;
-&lt;p&gt;Хранит карточки с заметками и позволяет связывать их в виде дерева (как в &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;ĝardeno/Zettelkasten&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Хранит карточки с заметками и позволяет связывать их в виде дерева (как в &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Zettelkasten&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;С одной стороны, это как раз то, что мне нужно, с другой стороны — слабая функциональность и слабая поддержка Markdown — делают приложение малоупотребительным для серьёзных вещей.&lt;/p&gt;
 &lt;h2 id=&quot;derevo-kartochek&quot; tabindex=&quot;-1&quot;&gt;Дерево карточек&lt;/h2&gt;
 &lt;p&gt;Каждая карточка может иметь родительскую и дочерних (кроме того, можно ссылаться на другие карточки из текста заметки).&lt;/p&gt;
 &lt;p&gt;Однако, нет (или я не нашёл) способа увидеть дерево карточек — на домашнем экране карточки в порядке их создания (редактирования?)&lt;/p&gt;
 &lt;h2 id=&quot;otlichiya-ot-zettelkasten&quot; tabindex=&quot;-1&quot;&gt;Отличия от Zettelkasten&lt;/h2&gt;
 &lt;p&gt;Прежде всего, отсутствует общая последовательность.&lt;br /&gt;
-В &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;ĝardeno/Zettelkasten&lt;/a&gt; карточки одного уровня упорядочены по времени создания, или по тому, как их создатель их разложил.&lt;/p&gt;
+В &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Zettelkasten&lt;/a&gt; карточки одного уровня упорядочены по времени создания, или по тому, как их создатель их разложил.&lt;/p&gt;
 &lt;p&gt;В Metaslip карточки все свалены в большую кучу. Их, конечно, можно отсортировать во вкладке Surfing по разным критериям, но это не тот жёсткий порядок, как в Zettelkasten.&lt;/p&gt;
 &lt;h2 id=&quot;markdown-v-metaslip&quot; tabindex=&quot;-1&quot;&gt;Markdown в Metaslip&lt;/h2&gt;
 &lt;p&gt;Я бы его назвал «ограниченным Markdown» — не вижу, чтобы правильно отображались цитаты и заголовки. По сути, есть только жирный, курсив, неупорядоченный список, математические выражения (LaTeX) и ссылки в двойных квадратных скобках. Не ни картинок, ни блоков кода.&lt;/p&gt;
@@ -517,7 +517,7 @@
                 Logseq
                 
             </title>
-            <updated>2026-05-26T22:25:27.343Z</updated>
+            <updated>2026-05-26T22:47:55.065Z</updated>
             <id>https://dmych.github.io/Logseq/</id>
             <content type="html">
                 &lt;h1 id=&quot;logseq&quot; tabindex=&quot;-1&quot;&gt;Logseq&lt;/h1&gt;
@@ -526,7 +526,7 @@
 &lt;p&gt;[!NOTE] Приложение давно не обновляется&lt;br /&gt;
 Разработчики, по их словам, уже несколько лет «пилят» новую версию, основанную на базах данных, которая до сих пор пребывает в состоянии альфа-теста.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Система основана на локальных файлах в формате Markdown или Org Mode. Основная идея в том, что вся входящая информация заносится в ежедневный журнал, который создаётся для каждого дня автоматически. Информация структурирована в виде списков (как в Roam Research, Dynalist или Workflowy). Каждый блок (т.е. элемент списка) рассматривается как независимая заметка (и может иметь вложенные заметки). На любой блок можно проставить ссылку, а можно отобразить его содержимое (см. &lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D1%8F&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Трансклюзия&lt;/a&gt;). Кроме ежедневных журналов можно создавать произвольные страницы, которые хранятся отдельно. Страницы предназначены прежде всего для сбора информации по какой-либо одной теме. Поскольку ссылки двунаправлены (любая ссылка порождает в месте, на которое ссылается, &lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;обратную ссылку&lt;/a&gt;), поэтому на любой странице сразу видна вся информация, относящаяся к данной теме, независимо от того, где она хранится. Хэштеги рассматриваются как альтернативные (однословные) ссылки на страницы.&lt;/p&gt;
+&lt;p&gt;Система основана на локальных файлах в формате Markdown или Org Mode. Основная идея в том, что вся входящая информация заносится в ежедневный журнал, который создаётся для каждого дня автоматически. Информация структурирована в виде списков (как в Roam Research, &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Dynalist/&quot;&gt;Dynalist&lt;/a&gt; или Workflowy). Каждый блок (т.е. элемент списка) рассматривается как независимая заметка (и может иметь вложенные заметки). На любой блок можно проставить ссылку, а можно отобразить его содержимое (см. &lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D1%8F&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Трансклюзия&lt;/a&gt;). Кроме ежедневных журналов можно создавать произвольные страницы, которые хранятся отдельно. Страницы предназначены прежде всего для сбора информации по какой-либо одной теме. Поскольку ссылки двунаправлены (любая ссылка порождает в месте, на которое ссылается, &lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;обратную ссылку&lt;/a&gt;), поэтому на любой странице сразу видна вся информация, относящаяся к данной теме, независимо от того, где она хранится. Хэштеги рассматриваются как альтернативные (однословные) ссылки на страницы.&lt;/p&gt;
 &lt;p&gt;Таким образом, оказывается удобно вести заметки, основанные на журнале (&lt;a href=&quot;https://static.toolsontech.com/blog/2023/04/journalbasednotes/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Journal-Based Note taking&lt;/a&gt;). Хотя и кажется, что в заметках полный бардак, на самом деле, всё легко ищется при помощи тегов и имен страниц, которые выступают точками агрегации информации, её «сборки» в проекты и темы.&lt;br /&gt;
 При этом в основном новая информация записывается в ежедневник — в страницу текущего дня. Получается, с одной стороны, полноценный дневник с описанием всего, что происходило за день (что помогает восстановить события впоследствии), с другой стороны, не нужно думать, &lt;em&gt;куда&lt;/em&gt; — в какой проект, на какую страницу нужно сделать запись. Ты просто записываешь всё в ежедневник. Можно сразу добавить тег, а можно потом, вечером или в выходные привести заметки в порядок, проставив необходимые ссылки.&lt;/p&gt;
 
@@ -538,11 +538,11 @@
                 Hypernotes
                 
             </title>
-            <updated>2026-05-26T22:25:08.436Z</updated>
+            <updated>2026-05-26T22:48:33.483Z</updated>
             <id>https://dmych.github.io/Hypernotes/</id>
             <content type="html">
                 &lt;h1 id=&quot;hypernotes&quot; tabindex=&quot;-1&quot;&gt;Hypernotes&lt;/h1&gt;
-&lt;p&gt;Похоже на аутлайнер в стиле &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Dynalist/&quot;&gt;22.30 Заметки о заметокоделии/Dynalist&lt;/a&gt;. Или, скоре, на &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Acreom/&quot;&gt;22.30 Заметки о заметокоделии/Acreom&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Похоже на аутлайнер в стиле &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Dynalist/&quot;&gt;Dynalist&lt;/a&gt;. Или, скоре, на &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Acreom/&quot;&gt;Acreom&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Заметки распределены по блокнотам. На бесплатном аккаунте можно только два блокнота.&lt;/p&gt;
 &lt;p&gt;Блокнот состоит из страниц. Каждая страница — список блоков (буллетов). Можно добавлять изображения и файлы. Есть таблицы, но, похоже, весьма простые. Есть ссылки на другие страницы и на отдельные блокию&lt;/p&gt;
 &lt;p&gt;Похоже, ссылок между блокнотами нет!&lt;/p&gt;
@@ -556,7 +556,7 @@
                 Google Tasks
                 
             </title>
-            <updated>2026-05-26T22:24:20.023Z</updated>
+            <updated>2026-05-26T22:48:47.073Z</updated>
             <id>https://dmych.github.io/Google Tasks/</id>
             <content type="html">
                 &lt;h1 id=&quot;google-tasks&quot; tabindex=&quot;-1&quot;&gt;Google Tasks&lt;/h1&gt;
@@ -570,14 +570,14 @@
                 Google Keep
                 
             </title>
-            <updated>2026-05-26T22:24:19.360Z</updated>
+            <updated>2026-05-26T22:49:20.200Z</updated>
             <id>https://dmych.github.io/Google Keep/</id>
             <content type="html">
                 &lt;h1 id=&quot;google-keep&quot; tabindex=&quot;-1&quot;&gt;Google Keep&lt;/h1&gt;
 &lt;p&gt;Главный плюс — бесплатность и доступность на любом телефоне с Андроидом «из коробки». Нравится интеграция с гугловым же календарем и напоминания по месту.&lt;/p&gt;
 &lt;p&gt;Минусы: отсутствие приложения для компьютеров и полноценного офлайн доступа к заметкам, слабые возможности поиска и каталогизации. Ну и лично для меня большим минусом стала смена шрифта и изменения в интерфейсе, отчего мне с моим неважным зрением стало некомфортно работать с заметками.&lt;/p&gt;
 &lt;p&gt;После того, как вернули интеграцию напоминаний Keep с &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Google%20Calendar/&quot;&gt;Календарем&lt;/a&gt; (теперь это делается так: напоминание становится задачей, которая отображается в календаре &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Google%20Tasks/&quot;&gt;Задачи&lt;/a&gt;), стало возможным использовать всю «связку» гугловых сервисов в качестве планировщика и заметочника.&lt;/p&gt;
-&lt;p&gt;Однако слабые возможности по сортировки, отсутствие связей между заметками не позволяют сделать полноценный заметочник в духе &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;ĝardeno/Zettelkasten&lt;/a&gt; или &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Bullet Journal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Однако слабые возможности по сортировки, отсутствие связей между заметками не позволяют сделать полноценный заметочник в духе &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Zettelkasten&lt;/a&gt; или &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Bullet Journal&lt;/a&gt;.&lt;/p&gt;
 
             </content>
             <link href="https://dmych.github.io/Google Keep/" >
@@ -646,12 +646,12 @@
                 Anytype
                 
             </title>
-            <updated>2026-05-26T22:26:08.295Z</updated>
+            <updated>2026-05-26T22:49:44.144Z</updated>
             <id>https://dmych.github.io/Anytype/</id>
             <content type="html">
                 &lt;h1 id=&quot;anytype&quot; tabindex=&quot;-1&quot;&gt;Anytype&lt;/h1&gt;
 &lt;p&gt;Новое приложение, авторы которого упирают на приватность и безопасность.&lt;/p&gt;
-&lt;p&gt;Внутри чем-то напоминает &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Notion/&quot;&gt;22.30 Заметки о заметокоделии/Notion&lt;/a&gt;, однако пользоваться сложнее. Пока не придумал, как его настроить удобно.&lt;/p&gt;
+&lt;p&gt;Внутри чем-то напоминает &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Notion/&quot;&gt;Notion&lt;/a&gt;, однако пользоваться сложнее. Пока не придумал, как его настроить удобно.&lt;/p&gt;
 &lt;p&gt;Много (слишком много) разных сущностей, которые тяжело увязать в единую систему. Кроме всего, несмотря на наличие шаблонов и задач, оказалось проблематично настроить систему так, чтобы не приходилось выполнять &lt;em&gt;слишком&lt;/em&gt; много телодвиженией каждый раз, когда мне требуется та же сущность (например, ежедневные задачи, или цели).&lt;/p&gt;
 
             </content>
@@ -694,11 +694,11 @@
                 AFFiNE
                 
             </title>
-            <updated>2026-05-26T22:26:06.719Z</updated>
+            <updated>2026-05-26T22:49:59.302Z</updated>
             <id>https://dmych.github.io/AFFiNE/</id>
             <content type="html">
                 &lt;h1 id=&quot;af-fi-ne&quot; tabindex=&quot;-1&quot;&gt;AFFiNE&lt;/h1&gt;
-&lt;p&gt;Опенсорсный аналог &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Notion/&quot;&gt;22.30 Заметки о заметокоделии/Notion&lt;/a&gt; , но с платным облаком. Есть бесплатный приличный тариф, есть возможность развернуть на своем сервере.&lt;/p&gt;
+&lt;p&gt;Опенсорсный аналог &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Notion/&quot;&gt;Notion&lt;/a&gt; , но с платным облаком. Есть бесплатный приличный тариф, есть возможность развернуть на своем сервере.&lt;/p&gt;
 &lt;p&gt;В приложении есть ежедневник, страницы, двунаправленные списки и т.п.&lt;/p&gt;
 &lt;p&gt;Однако, столкнулся с тем, что картинки с телефона не загружаются при синхронизации, плюс кучка других проблем:&lt;/p&gt;
 &lt;ul&gt;
