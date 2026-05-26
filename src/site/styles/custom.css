@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "Courier Prime";
+    src: url("assets/fonts/courier-prime.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Courier Prime";
+    src: url("/assets/fonts/courier-prime-italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Courier Prime";
+    src: url("/assets/fonts/courier-prime-bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Courier Prime";
+    src: url("/assets/fonts/courier-prime-bold-italic.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+:root {
+    --font-text: "Courier Prime", system-ui, sans-serif;
+    --font-interface: "Courier Prime", system-ui, sans-serif;
+    --font-monospace: "Courier Prime", ui-monospace, monospace;
+}
+
+/* Дополнительно — на всякий случай */
+body,
+.markdown-preview-view,
+.article-content,
+.prose,
+.content {
+    font-family: "Courier Prime", system-ui, sans-serif;
+}
