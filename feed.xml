@@ -3,14 +3,14 @@
     <title>Заметки о заметкоделии</title>
     <link href="https://dmych.github.io/feed.xml" rel="self" >
     <link href="https://dmych.github.io" >
-    <updated>2026-05-26T20:56:44Z</updated>
+    <updated>2026-05-26T21:02:05Z</updated>
     <id>https://dmych.github.io</id>
         <entry>
             <title>
                 Оглавление
                 
             </title>
-            <updated>2026-05-26T20:56:04.018Z</updated>
+            <updated>2026-05-26T21:01:25.967Z</updated>
             <id>https://dmych.github.io/</id>
             <content type="html">
                 &lt;h1 id=&quot;oglavlenie&quot; tabindex=&quot;-1&quot;&gt;Оглавление&lt;/h1&gt;
@@ -20,11 +20,28 @@
 Но это неточно ;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/22.30%20%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8%20%D0%BE%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BE%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%B8/%D0%93%D0%B4%D0%B5%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B2%D0%B5%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/&quot;&gt;Где и как вести заметки&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/22.30%20%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8%20%D0%BE%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BE%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%B8/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%20%D0%BF%D0%BE%20Obsidian/&quot;&gt;Краткий курс по Obsidian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Инструменты&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
             <link href="https://dmych.github.io/" >
+        </entry>
+        <entry>
+            <title>
+                Краткий курс по Obsidian
+                
+            </title>
+            <updated>2026-05-26T21:00:55.088Z</updated>
+            <id>https://dmych.github.io/22.30 Заметки о заметокоделии/Краткий курс по Obsidian/</id>
+            <content type="html">
+                &lt;h1 id=&quot;kratkij-kurs-po-obsidian&quot; tabindex=&quot;-1&quot;&gt;Краткий курс по Obsidian&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/22.30%20%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8%20%D0%BE%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BE%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%B8/%D0%93%D0%B4%D0%B5%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B2%D0%B5%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/&quot;&gt;Где и как вести заметки&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dmych.github.io/22.30 Заметки о заметокоделии/Краткий курс по Obsidian/" >
         </entry>
         <entry>
             <title>
