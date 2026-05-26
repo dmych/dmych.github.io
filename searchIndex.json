@@ -1,1 +1,9 @@
-[]
+[
+{
+		"title": "Заметки о заметкоделии",
+		"date":"Tue May 26 2026 19:03:08 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "Заметки о заметкоделии\n\n[!warning] В разработке\nСкоро будет",
+		"tags": [ "note","gardenEntry"]
+}
+]
