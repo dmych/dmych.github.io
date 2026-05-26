@@ -1,13 +1,44 @@
+/* === Основное семейство шрифта === */
+@font-face {
+    font-family: "MyCustomFont";
+    src: url("/assets/fonts/MyFont-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Courier Prime";
+    src: url("assets/fonts/courier-prime.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Courier Prime";
+    src: url("/assets/fonts/courier-prime-italic.ttf") format("ttf");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Courier Prime";
+    src: url("/assets/fonts/courier-prime-bold.ttf") format("ttf");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Courier Prime";
+    src: url("/assets/fonts/courier-prime-bold-italic.ttf") format("ttf");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Применяем шрифт */
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    font-family: "Courier Prime", system-ui, sans-serif;
 }
