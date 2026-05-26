@@ -30,10 +30,10 @@
 }
 
 :root {
-    --font-text: "Courier Prime", system-ui, sans-serif;
-    --font-default: "Courier Prime", system-ui, sans-serif;
-    --font-interface: "Courier Prime", system-ui, sans-serif;
-    --font-monospace: "Courier Prime", ui-monospace, monospace;
+    --font-text: "Courier Prime", system-ui, sans-serif !important;
+    --font-default: "Courier Prime", system-ui, sans-serif !important;
+    --font-interface: "Courier Prime", system-ui, sans-serif !important;
+    --font-monospace: "Courier Prime", ui-monospace, monospace !important;
 }
 
 /* Дополнительно — на всякий случай */
