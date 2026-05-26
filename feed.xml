@@ -3,7 +3,7 @@
     <title>Заметки о заметкоделии</title>
     <link href="https://dmych.github.io/feed.xml" rel="self" >
     <link href="https://dmych.github.io" >
-    <updated>2026-05-26T22:40:31Z</updated>
+    <updated>2026-05-26T22:43:24Z</updated>
     <id>https://dmych.github.io</id>
         <entry>
             <title>
@@ -48,12 +48,12 @@
                 Инструменты
                 
             </title>
-            <updated>2026-05-26T22:36:01.641Z</updated>
+            <updated>2026-05-26T22:41:43.135Z</updated>
             <id>https://dmych.github.io/Инструменты/</id>
             <content type="html">
                 &lt;h1 id=&quot;instrumenty&quot; tabindex=&quot;-1&quot;&gt;Инструменты&lt;/h1&gt;
 &lt;p&gt;Здесь перечислены приложения и сервисы для ведения заметок и задач, которым я сам пользуюсь, или пробовал пользоваться.&lt;/p&gt;
-&lt;p&gt;Сейчас основным моим рабочим инструментом является &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Obsidian&lt;/a&gt; кроме того, по-прежнему активно использую гугловские приложения (прежде всего &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Google%20Calendar/&quot;&gt;календарь&lt;/a&gt;) и, конечно же, &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Vim/&quot;&gt;Vim&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Сейчас основным моим рабочим инструментом является &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Obsidian/&quot;&gt;Obsidian&lt;/a&gt; кроме того, по-прежнему активно использую гугловские приложения (прежде всего &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Google%20Calendar/&quot;&gt;календарь&lt;/a&gt;) и, конечно же, &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Vim/&quot;&gt;Vim&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Acreom/&quot;&gt;Acreom&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/AFFiNE/&quot;&gt;AFFiNE&lt;/a&gt;&lt;/li&gt;
@@ -72,6 +72,7 @@
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Notesnook/&quot;&gt;Notesnook&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Nimbus%20Note/&quot;&gt;Nimbus Note&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Notion/&quot;&gt;Notion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Obsidian/&quot;&gt;Obsidian&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Routine/&quot;&gt;Routine&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Sectograph/&quot;&gt;Sectograph&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/Simplenote/&quot;&gt;Simplenote&lt;/a&gt;&lt;/li&gt;
@@ -378,6 +379,22 @@
 
             </content>
             <link href="https://dmych.github.io/Routine/" >
+        </entry>
+        <entry>
+            <title>
+                Obsidian
+                
+            </title>
+            <updated>2026-05-26T22:42:52.381Z</updated>
+            <id>https://dmych.github.io/Obsidian/</id>
+            <content type="html">
+                &lt;h1 id=&quot;obsidian&quot; tabindex=&quot;-1&quot;&gt;Obsidian&lt;/h1&gt;
+&lt;p&gt;Просто лучший инструмент для ведения заметок в текстовых файлах в формате &lt;em&gt;Markdown&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Множество в разнообразных тем оформления позволяют настроить внешний вид так, как хочется. А в новых версиях можно менять шрифты интерфейса и редактора независимо от тем.&lt;/p&gt;
+&lt;p&gt;Разнообразные плагины реализуют функции, которых нет в базовом редакторе. Например, &lt;strong&gt;Advanced Tables&lt;/strong&gt; позволяет создавать таблицы с ячейками/колонками/строками, вычисляемыми по формулам (почти как в Excel), &lt;strong&gt;Meld Calc&lt;/strong&gt; позволяет вычислить математическое выражение, записанное в тексте, и вставить его результат. Ну а с помощью &lt;strong&gt;AidenLx&#39;s Folder Note&lt;/strong&gt; и &lt;strong&gt;Waypoint&lt;/strong&gt; можно реализовать удобную иерархическую систему заметок, похожую на &lt;em&gt;Notion&lt;/em&gt;.&lt;/p&gt;
+
+            </content>
+            <link href="https://dmych.github.io/Obsidian/" >
         </entry>
         <entry>
             <title>
