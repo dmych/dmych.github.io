@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://dmych.github.io/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://dmych.github.io">
     <title>Digital Garden</title>
-    <link href="https://dmych.github.io//feed.xml" rel="self" >
-    <link href="https://dmych.github.io/" >
-    <updated>2026-05-26T18:59:32Z</updated>
-    <id>https://dmych.github.io/</id>
+    <link href="https://dmych.github.io/feed.xml" rel="self" >
+    <link href="https://dmych.github.io" >
+    <updated>2026-05-26T18:59:55Z</updated>
+    <id>https://dmych.github.io</id>
 </feed>
