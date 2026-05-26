@@ -3,14 +3,14 @@
     <title>Заметки о заметкоделии</title>
     <link href="https://dmych.github.io/feed.xml" rel="self" >
     <link href="https://dmych.github.io" >
-    <updated>2026-05-26T20:51:22Z</updated>
+    <updated>2026-05-26T20:56:44Z</updated>
     <id>https://dmych.github.io</id>
         <entry>
             <title>
                 Оглавление
                 
             </title>
-            <updated>2026-05-26T20:50:21.625Z</updated>
+            <updated>2026-05-26T20:56:04.018Z</updated>
             <id>https://dmych.github.io/</id>
             <content type="html">
                 &lt;h1 id=&quot;oglavlenie&quot; tabindex=&quot;-1&quot;&gt;Оглавление&lt;/h1&gt;
@@ -19,8 +19,33 @@
 Скоро будет...&lt;br /&gt;
 Но это неточно ;)&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/22.30%20%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8%20%D0%BE%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BE%D0%BA%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D0%B8/%D0%93%D0%B4%D0%B5%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B2%D0%B5%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/&quot;&gt;Где и как вести заметки&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
             </content>
             <link href="https://dmych.github.io/" >
+        </entry>
+        <entry>
+            <title>
+                Где и как вести заметки
+                
+            </title>
+            <updated>2026-05-26T20:55:48.018Z</updated>
+            <id>https://dmych.github.io/22.30 Заметки о заметокоделии/Где и как вести заметки/</id>
+            <content type="html">
+                &lt;h1 id=&quot;gde-i-kak-vesti-zametki&quot; tabindex=&quot;-1&quot;&gt;Где и как вести заметки&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«Спрашивается: что суше всего? Отвечаем: лек-ци-я!»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Что такое заметки? Это просто записи о разном. Как лучше всего вести записи? Записывать! Где? В блокноте! Ну, ок, в качестве блокнота у нас будет выступать приложение на компьютере, планшете или смартфоне.&lt;/p&gt;
+&lt;p&gt;По большому счёту не важно, в каком именно приложении вы ведёте заметки — если вас оно устраивает, то продолжайте им пользоваться. Я в разное время для разных задач пользовался &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;разными приложениями&lt;/a&gt;, и в конце концов остановился на Obsidian.&lt;/p&gt;
+&lt;p&gt;Прежде всего, потому что &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Obsidian&lt;/a&gt; хранит заметки в обычных текстовых файлах на диске, и это значит, что они всегда будут доступны независимо от наличия интернета и работоспособности самого приложения — текстовые файлы вы сможете прочитать где угодно, с помощью любого самого простого текстового редактора.&lt;/p&gt;
+&lt;p&gt;Но это не единственная причина. Дело в том, что Obsidian — это мощный текстовый «комбайн», который к тому же можно хорошо настроить под свои нужды. А формат разметки &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Markdown&lt;/a&gt;, в котором ведутся заметки, позволяет форматировать документы не хуже, чем в ворде или гугл документах, при этом файлы не распухают до неприличных размеров, и по-прежнему легко читаются в любом другом текстовом редакторе.&lt;/p&gt;
+&lt;p&gt;Главное же отличие заметок в Obsidian от просто текстовых файлов — они &lt;em&gt;связаны&lt;/em&gt; в единую базу знаний. Obsidian — это одновременно редактор Markdown и приложение для управления базой знаний, и настоящая сила Obsidian заключается в управлении этой связанной базой знаний.&lt;/p&gt;
+&lt;p&gt;Документация Obsidian доступна на русском языке: &lt;a href=&quot;https://obsidian.md/ru/help/obsidian&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;https://obsidian.md/ru/help/obsidian&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dmych.github.io/22.30 Заметки о заметокоделии/Где и как вести заметки/" >
         </entry>
 </feed>
