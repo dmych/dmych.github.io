@@ -44,3 +44,7 @@ body,
 .content {
     font-family: "Courier Prime", system-ui, sans-serif;
 }
+
+.callout {
+    font-family: var(--font-text);
+}
