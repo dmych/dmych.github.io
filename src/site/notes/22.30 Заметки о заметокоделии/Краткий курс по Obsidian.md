@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/22.30 Заметки о заметокоделии/Краткий курс по Obsidian/","updated":"2026-05-27T00:00:55.088+03:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Краткий курс по Obsidian.md","permalink":"/Краткий курс по Obsidian/","updated":"2026-05-27T00:00:55.088+03:00","dg-note-properties":{}}
 ---
 
 # Краткий курс по Obsidian
