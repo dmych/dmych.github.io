@@ -3,7 +3,7 @@
     <title>Заметки о заметкоделии</title>
     <link href="https://dmych.github.io/feed.xml" rel="self" >
     <link href="https://dmych.github.io" >
-    <updated>2026-05-27T09:47:08Z</updated>
+    <updated>2026-05-27T10:07:49Z</updated>
     <id>https://dmych.github.io</id>
         <entry>
             <title>
@@ -52,16 +52,15 @@
                 Краткий курс по Obsidian
                 
             </title>
-            <updated>2026-05-27T09:46:35.974Z</updated>
+            <updated>2026-05-27T10:06:56.959Z</updated>
             <id>https://dmych.github.io/Краткий курс по Obsidian/</id>
             <content type="html">
                 &lt;h1 id=&quot;kratkij-kurs-po-obsidian&quot; tabindex=&quot;-1&quot;&gt;Краткий курс по Obsidian&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/%D0%93%D0%B4%D0%B5%20%D0%B8%20%D0%BA%D0%B0%D0%BA%20%D0%B2%D0%B5%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/&quot;&gt;Где и как вести заметки&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20Markdown/&quot;&gt;Что такое Markdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Установка и настройка Obsidian&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dmych.github.io/404&quot; target=&quot;&quot;&gt;Как устроено хранилище и Obsidian&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dmych.github.io/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20Markdown/&quot;&gt;Базовый Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Урок 1. Obsidian — это не Word&lt;/li&gt;
+&lt;li&gt;Урок 2. Установка Obsidian и устройство хранилища (заметки-файлы и ссылки)&lt;/li&gt;
+&lt;li&gt;Урок 3. Базовый Markdown — как структурировать и выделять текст&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
