@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<title>Supernotes</title>
+<title>Базовый Markdown</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -69,16 +69,52 @@ CTRL + K
 <div class="header-meta">
 <div class="header-tags">
 </div>
-<div class="timestamps"><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2026-05-27T01:26:42.712+03:00"></span></div></div></div>
+<div class="timestamps"><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2026-05-27T12:45:24.493+03:00"></span></div></div></div>
 </header>
-<h1 id="supernotes" tabindex="-1">Supernotes</h1>
-<p>Приложение для ведения заметок по методу Zettelkasten. Я узнал о нем из блога «Федоров пишет». Заметки могут быть структурированы иерархически, причем у заметки может быть несколько родителей (т.е. она может находиться одновременно в нескольких темах, например), ближайшие заметки все перед глазами, структура — слева в панели (причем вы сами можете определять какие заметки должны там отображаться).</p>
-<p>Для форматирования используется Markdown, поддерживаются ссылки между заметками, вставка картинок, простые таблицы, блоки кода и т.п. Есть поиск и фильтрация заметок. Выглядит стильно, использовать удобно (в том числе за счет хоткеев для большинства операций).</p>
-<p>Есть мягкое ограничение на размер заметки — 1200 символов. Оно именно, что мягкое — никто не мешает делать заметки длиннее 1200 символов, вам просто внизу показывается, сколько символов осталось.</p>
-<p>Приложение активно развивается. Есть версии для мобильных платформ и для компьютеров, а так же веб-приложение.<br>
-К основным недостаткам можно отнести отсутсвие офлайн-режима и стоимость.</p>
-<p>Без интернета работать с заметками не получится вообще. Офлайн есть в планах на будущее, но не в ближайшее время.</p>
-<p>Формально есть бесплатный тариф, но он ограничен только 40 заметками, т.е. по сути это просто триальная версия. Полноценно можно работать только на платном аккаунте, который стоит 6 фунтов в месяц при покупки годовой подписки.</p>
+<h1 id="bazovyj-markdown" tabindex="-1">Базовый Markdown</h1>
+<blockquote>
+<p>Markdown должен быть настолько легким для чтения и записи, насколько это возможно.<br>
+При этом удобочитаемость ставится превыше всего.<br>
+Синтаксис Markdown состоит из одних знаков препинания, тщательно отобранных, чтобы разметка была похожа на то что она означает. Например, звездочки вокруг слова в самом деле похожи на выделение. Списки Markdown выглядят как списки. Даже цитаты выглядят как цитируемые отрывки текста, если вы когда-либо использовали электронную почту.</p>
+</blockquote>
+<h2 id="abzaczy" tabindex="-1">Абзацы</h2>
+<p>Пустая строка является разделителем абзацев. Чтобы начать новый абзац, просто дважды нажмите на <code>Enter</code>.</p>
+<h2 id="perenosy-strok" tabindex="-1">Переносы строк</h2>
+<p>По умолчанию в Obsidian одно нажатие <code>Enter</code> создаёт новую строку в заметке, но при отображении она рассматривается как <em>продолжение</em> того же абзаца.</p>
+<p>Чтобы вставить перенос строки <em>внутри</em> абзаца, не начиная новый, вы можете либо добавить <strong>два пробела</strong> в конец строки, либо нажать <code>Shift+Enter</code>, чтобы вставить перевод строки.</p>
+<h2 id="vydelenie-teksta-kursiv-zhirnyj-vydelenie-markerom-zacherkivanie-kod" tabindex="-1">Выделение текста: курсив, жирный, выделение маркером, зачеркивание, код</h2>
+<p>Для выделения текста используем символы подчеркивания или звездочки:</p>
+<pre><code>одна звездочка или подчеркивание — *курсив*
+две звездочки или подчеркивания — **жирный**
+жирный курсив — ***три символа***
+можно комбинировать: *курсив **полужирный курсив***
+</code></pre>
+<blockquote>
+<p>одна звездочка или подчеркивание — <em>курсив</em><br>
+две звездочки или подчеркивания — <strong>жирный</strong><br>
+жирный курсив — <em><strong>три символа</strong></em><br>
+можно комбинировать: <em>курсив <strong>полужирный курсив</strong></em></p>
+</blockquote>
+<p>Чтобы <em>зачеркнуть</em> текст — используем двойные тильды:</p>
+<pre><code>следующий текст ~~вычеркиваем~~
+</code></pre>
+<blockquote>
+<p>следующий текст <s>вычеркиваем</s></p>
+</blockquote>
+<p>Аналогично можно выделить текст желтым «маркером» — для этого используем два символа равно:</p>
+<pre><code>тут ==выделяем== текст
+</code></pre>
+<blockquote>
+<p>тут <mark>выделяем</mark> текст</p>
+</blockquote>
+<p>Если требуется использовать моноширинный шрифт (для исходного кода, например), то используем одиночные обратные апострофы (для отдельных слов внутри текста) или отдельные абзацы, ограниченные сверху и снизу строками с тремя обратными апострофами.</p>
+<h2 id="czitaty-bloki-koda" tabindex="-1">Цитаты, блоки кода</h2>
+<h2 id="spiski-spiski-zadach-vlozhennye-spiski" tabindex="-1">Списки, списки задач, вложенные списки</h2>
+<h2 id="struktura-teksta-zagolovki" tabindex="-1">Структура текста — заголовки</h2>
+<h2 id="gorizontalnaya-liniya" tabindex="-1">Горизонтальная линия</h2>
+<h2 id="snoski" tabindex="-1">Сноски</h2>
+<h2 id="ekranirovanie-simvolov" tabindex="-1">Экранирование символов</h2>
+<h2 id="vneshnie-ssylki" tabindex="-1">Внешние ссылки</h2>
 </main>
 <aside>
 <div class="sidebar">
@@ -92,7 +128,29 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#supernotes">Supernotes</a>
+<li><a href="#bazovyj-markdown">Базовый Markdown</a>
+<ol>
+<li><a href="#abzaczy">Абзацы</a>
+</li>
+<li><a href="#perenosy-strok">Переносы строк</a>
+</li>
+<li><a href="#vydelenie-teksta-kursiv-zhirnyj-vydelenie-markerom-zacherkivanie-kod">Выделение текста: курсив, жирный, выделение маркером, зачеркивание, код</a>
+</li>
+<li><a href="#czitaty-bloki-koda">Цитаты, блоки кода</a>
+</li>
+<li><a href="#spiski-spiski-zadach-vlozhennye-spiski">Списки, списки задач, вложенные списки</a>
+</li>
+<li><a href="#struktura-teksta-zagolovki">Структура текста — заголовки</a>
+</li>
+<li><a href="#gorizontalnaya-liniya">Горизонтальная линия</a>
+</li>
+<li><a href="#snoski">Сноски</a>
+</li>
+<li><a href="#ekranirovanie-simvolov">Экранирование символов</a>
+</li>
+<li><a href="#vneshnie-ssylki">Внешние ссылки</a>
+</li>
+</ol>
 </li>
 </ol>
 </nav>
@@ -100,7 +158,8 @@ On this page
 </div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/Инструменты/" data-note-icon="" class="backlink">Инструменты</a>
+<div class="backlink-list"><div class="backlink-card">
+<span class="no-backlinks-message">No other pages mentions this page</span>
 </div></div>
 </div>
 </div>
