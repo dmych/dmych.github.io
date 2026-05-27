@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Краткий курс по Obsidian.md","permalink":"/Краткий курс по Obsidian/","updated":"2026-05-27T00:00:55.088+03:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Краткий курс по Obsidian.md","permalink":"/Краткий курс по Obsidian/","updated":"2026-05-27T12:36:11.339+03:00","dg-note-properties":{}}
 ---
 
 # Краткий курс по Obsidian
 
 - [[22.30 Заметки о заметокоделии/Где и как вести заметки\|Где и как вести заметки]]
+- [[22.30 Заметки о заметокоделии/Что такое Markdown\|Что такое Markdown]]
+- [[Установка и настройка Obsidian\|Установка и настройка Obsidian]]
+- Как устроено хранилище и Obsidian
+- 
