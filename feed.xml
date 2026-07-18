@@ -3,7 +3,7 @@
     <title>Заметки о заметкоделии</title>
     <link href="https://dmych.github.io/feed.xml" rel="self" >
     <link href="https://dmych.github.io" >
-    <updated>2026-07-18T10:42:57Z</updated>
+    <updated>2026-07-18T11:05:33Z</updated>
     <id>https://dmych.github.io</id>
         <entry>
             <title>
@@ -131,62 +131,6 @@
 
             </content>
             <link href="https://dmych.github.io/Где и как вести заметки/" >
-        </entry>
-        <entry>
-            <title>
-                Базовый Markdown
-                
-            </title>
-            <updated>2026-05-27T09:45:24.493Z</updated>
-            <id>https://dmych.github.io/Базовый Markdown/</id>
-            <content type="html">
-                &lt;h1 id=&quot;bazovyj-markdown&quot; tabindex=&quot;-1&quot;&gt;Базовый Markdown&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Markdown должен быть настолько легким для чтения и записи, насколько это возможно.&lt;br /&gt;
-При этом удобочитаемость ставится превыше всего.&lt;br /&gt;
-Синтаксис Markdown состоит из одних знаков препинания, тщательно отобранных, чтобы разметка была похожа на то что она означает. Например, звездочки вокруг слова в самом деле похожи на выделение. Списки Markdown выглядят как списки. Даже цитаты выглядят как цитируемые отрывки текста, если вы когда-либо использовали электронную почту.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;abzaczy&quot; tabindex=&quot;-1&quot;&gt;Абзацы&lt;/h2&gt;
-&lt;p&gt;Пустая строка является разделителем абзацев. Чтобы начать новый абзац, просто дважды нажмите на &lt;code&gt;Enter&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;perenosy-strok&quot; tabindex=&quot;-1&quot;&gt;Переносы строк&lt;/h2&gt;
-&lt;p&gt;По умолчанию в Obsidian одно нажатие &lt;code&gt;Enter&lt;/code&gt; создаёт новую строку в заметке, но при отображении она рассматривается как &lt;em&gt;продолжение&lt;/em&gt; того же абзаца.&lt;/p&gt;
-&lt;p&gt;Чтобы вставить перенос строки &lt;em&gt;внутри&lt;/em&gt; абзаца, не начиная новый, вы можете либо добавить &lt;strong&gt;два пробела&lt;/strong&gt; в конец строки, либо нажать &lt;code&gt;Shift+Enter&lt;/code&gt;, чтобы вставить перевод строки.&lt;/p&gt;
-&lt;h2 id=&quot;vydelenie-teksta-kursiv-zhirnyj-vydelenie-markerom-zacherkivanie-kod&quot; tabindex=&quot;-1&quot;&gt;Выделение текста: курсив, жирный, выделение маркером, зачеркивание, код&lt;/h2&gt;
-&lt;p&gt;Для выделения текста используем символы подчеркивания или звездочки:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;одна звездочка или подчеркивание — *курсив*
-две звездочки или подчеркивания — **жирный**
-жирный курсив — ***три символа***
-можно комбинировать: *курсив **полужирный курсив***
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;
-&lt;p&gt;одна звездочка или подчеркивание — &lt;em&gt;курсив&lt;/em&gt;&lt;br /&gt;
-две звездочки или подчеркивания — &lt;strong&gt;жирный&lt;/strong&gt;&lt;br /&gt;
-жирный курсив — &lt;em&gt;&lt;strong&gt;три символа&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
-можно комбинировать: &lt;em&gt;курсив &lt;strong&gt;полужирный курсив&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Чтобы &lt;em&gt;зачеркнуть&lt;/em&gt; текст — используем двойные тильды:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;следующий текст ~~вычеркиваем~~
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;
-&lt;p&gt;следующий текст &lt;s&gt;вычеркиваем&lt;/s&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Аналогично можно выделить текст желтым «маркером» — для этого используем два символа равно:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;тут ==выделяем== текст
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;
-&lt;p&gt;тут &lt;mark&gt;выделяем&lt;/mark&gt; текст&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Если требуется использовать моноширинный шрифт (для исходного кода, например), то используем одиночные обратные апострофы (для отдельных слов внутри текста) или отдельные абзацы, ограниченные сверху и снизу строками с тремя обратными апострофами.&lt;/p&gt;
-&lt;h2 id=&quot;czitaty-bloki-koda&quot; tabindex=&quot;-1&quot;&gt;Цитаты, блоки кода&lt;/h2&gt;
-&lt;h2 id=&quot;spiski-spiski-zadach-vlozhennye-spiski&quot; tabindex=&quot;-1&quot;&gt;Списки, списки задач, вложенные списки&lt;/h2&gt;
-&lt;h2 id=&quot;struktura-teksta-zagolovki&quot; tabindex=&quot;-1&quot;&gt;Структура текста — заголовки&lt;/h2&gt;
-&lt;h2 id=&quot;gorizontalnaya-liniya&quot; tabindex=&quot;-1&quot;&gt;Горизонтальная линия&lt;/h2&gt;
-&lt;h2 id=&quot;snoski&quot; tabindex=&quot;-1&quot;&gt;Сноски&lt;/h2&gt;
-&lt;h2 id=&quot;ekranirovanie-simvolov&quot; tabindex=&quot;-1&quot;&gt;Экранирование символов&lt;/h2&gt;
-&lt;h2 id=&quot;vneshnie-ssylki&quot; tabindex=&quot;-1&quot;&gt;Внешние ссылки&lt;/h2&gt;
-
-            </content>
-            <link href="https://dmych.github.io/Базовый Markdown/" >
         </entry>
         <entry>
             <title>
