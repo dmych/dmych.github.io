@@ -1,1 +1,9 @@
-[]
+[
+{
+		"title": "Заметки о заметкоделии",
+		"date":"Mon Jul 20 2026 09:06:20 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "Заметки о заметкоделии\n\n[!warning] В разработке\nСкоро будет...\nНо это неточно ;)\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Краткий курс по Obsidian</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Инструменты</a>",
+		"tags": [ "note","gardenEntry"]
+}
+]
